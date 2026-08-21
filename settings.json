@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": " lifestealSMP976.aternos.me:28207",
-    "port": 28207,
+    "port":28207,
     "version": "",
     "try-creative": false
   },
